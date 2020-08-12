@@ -1,0 +1,2 @@
+# Scrapping-Flipkart-Data-to-CSV
+Web Scraping means to collect data from the Internet. As a beginner in data science, you must have seen CSV. files on the Internet distributed by some popular websites like Kaggle and other govt websites. The data is prepared by either collecting and writing using standard methods or by scraping it from the Internet. In this article, I will take you through web scraping with Python using BeautifulSoup.
